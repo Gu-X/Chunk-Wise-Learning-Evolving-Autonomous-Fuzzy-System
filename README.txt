@@ -1,3 +1,4 @@
+Chunk-Wise-Learning-Evolving-Autonomous-Fuzzy-System
 The MATLAB code for the research paper titled "A Chunk-Wise Learning Evolving Autonomous Fuzzy System for 
 Intelligent Data Stream Prediction".
 
